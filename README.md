@@ -1,4 +1,4 @@
-# Curso de programacion full stack
+# Curso de programación full stack
 
 ## Comisión B 
 
