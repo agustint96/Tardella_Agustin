@@ -45,7 +45,7 @@ SELECT apellido from sistema.empleados;
 SELECT DISTINCT(apellido) FROM sistema.empleados;
 
 -- Consulta 3. Lista todas las columnas de la tabla empleados.
-SELECT DISTINCT(apellido) FROM sistema.empleados;
+SELECT * FROM sistema.empleados;
 
 -- Consulta 4. Lista el nombre y apellido de todos los empleados.
 SELECT nombre, apellido FROM sistema.empleados; 
